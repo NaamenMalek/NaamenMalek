@@ -101,6 +101,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
+**Blockchain**
+![Hedera](https://img.shields.io/badge/Hedera%20Hashgraph-222222?style=flat-square&logo=hedera&logoColor=white)
+
 **Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
@@ -112,7 +115,9 @@
 ### 📜 Certifications
 
 - ☁️ **AWS Academy Cloud Foundations** — badge earned (2026)
-- 🔗 **Hedera Certified Foundation** — in progress
+- 🔗 **Hedera Certified Developer Associate (HCDA)** — The Hashgraph Association (Oct 2026)
+- 🔗 **Hedera Certified Foundation (HCF)** — The Hashgraph Association (Oct 2026)
+- 🔗 **Hedera Business Foundation (HBF)** — The Hashgraph Association (Oct 2026)
 
 ---
 
